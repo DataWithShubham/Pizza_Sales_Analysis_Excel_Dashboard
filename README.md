@@ -33,8 +33,7 @@ This project analyzes pizza sales data to identify revenue trends, top-selling p
 - Weekend sales outperform weekdays
 - Classic category contributes maximum orders
 
-## 🚀 Business Recommendat
-ions
+## 🚀 Business Recommendations
 - Promote best-selling pizzas during weekends
 - Bundle slow-selling items with popular pizzas
 - Increase marketing for high-margin categories
